@@ -1,0 +1,9 @@
+streamlit
+requests
+beautifulsoup4
+sentence-transformers
+spacy
+opencv-python
+Pillow
+reportlab
+lxml

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "buildCommand": "pip install -r requirements.txt",
+  "startCommand": "streamlit run app.py --server.port $PORT --server.address 0.0.0.0",
+  "env": {
+    "PYTHON_VERSION": "3.10"
+  }
+}
